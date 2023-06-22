@@ -10,3 +10,6 @@ Madison Martin is an upcoming data scientist who believes in utilizing the power
 - Sourced data from Spotify, Billboard, Chartmetric, and lyric websites
 - Utilized language identification neural network modeling (cld3 package) to identify songs with non-English lyrics
 - Assessed relationship between language of lyrics and success measures using Multiple Linear Regression modeling
+![](https://github.com/madison-martin8/Madison_Martin_Portfolio/blob/main/images/average_radioplays_language.png)
+
+![](https://github.com/madison-martin8/Madison_Martin_Portfolio/blob/main/images/average_streams_language.png)
