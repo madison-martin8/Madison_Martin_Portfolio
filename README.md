@@ -18,3 +18,4 @@ Madison Martin is an upcoming data scientist who believes in utilizing the power
 # [Project 2: Predicting Sephora Product Ratings](https://github.com/madison-martin8/Predicting_Sephora_Ratings)
 - Analyzed beauty product attributes from over 9,000 products as sourced from the Sephora US website from April 2020
 
+![](/images/istockphoto-makeup brushes.jpeg)
